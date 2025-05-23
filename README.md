@@ -1,4 +1,8 @@
-# TAR Projectos realizados para cadeira Tópicos Avançados em Redes 
+# CDN baseada em DNS
+
+Neste projeto implementamos com sucesso uma CDN baseada em DNS no GNS3 e na cloud.
+
+Para mais informações sobre o projeto, verificar ```Relatório_TAR.pdf```
 
 ## Link para download projeto 
 
